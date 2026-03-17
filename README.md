@@ -87,4 +87,9 @@ Feature selection and multicollinearity handling improved model performance sign
 
 ---
 
+## 📊 Model Accuracy
+
+- R² Score: 0.91
+- Model: Linear Regression
+
 ⭐ If you like this project, feel free to give it a star!
